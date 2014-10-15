@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Chapi Server Changelog</title>
+        <link>http://samueldeal.github.io/dist/chapi_server/appcast_feed.rss</link>
+        <description>Chapi server update feed</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.2.0 (0 bugs fixed)</title>
+            <sparkle:releaseNotesLink>
+                http://samueldeal.github.io/chapi_release_note.html#version-0-1-0
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 15 Oct 2014 04:20:14 +0000</pubDate>
+            <enclosure url="http://samueldeal.github.io/dist_http://you.com/app/Your%20Great%20App%202.0.zip" sparkle:version="0.2.0" length="1623481" type="application/octet-stream" sparkle:dsaSignature="BAFJW4B6B1K1JyW30nbkBwainOzrN6EQuAh" />
+            <sparkle:minimumSystemVersion>5.1</sparkle:minimumSystemVersion>
+        </item>
+        <item>
+            <title>Version 0.1.0 (initial pre-alpha release)</title>
+            <sparkle:releaseNotesLink>
+                http://samueldeal.github.io/chapi_release_note.html#version_0_0_1
+            </sparkle:releaseNotesLink>
+            <pubDate>Tue, 14 Oct 2014 19:10:00 +0000</pubDate>
+            <enclosure url="http://you.com/app/Your%20Great%20App%201.4.zip" sparkle:version="0.1.0" sparkle:shortVersionString="0.1" sparkle:dsaSignature="MC0CFBfeCa1JyW30nbkBwainOzrN6EQuAh=" length="1472349" type="application/octet-stream" />
+            <sparkle:minimumSystemVersion>5.1</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
